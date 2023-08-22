@@ -1,0 +1,82 @@
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h
+test_algorithm.o: test_algorithm.cpp sort.h unit_test.h
+timing.o: timing.cpp sort.h

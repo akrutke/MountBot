@@ -1,0 +1,24 @@
+{
+  "name": "discord-express-app",
+  "version": "1.0.0",
+  "description": "Setting up Bnet passport for OAuth authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akrutke/MountBot.git"
+  },
+  "author": "Jonathon Hughes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akrutke/MountBot/issues"
+  },
+  "homepage": "https://github.com/akrutke/MountBot#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "passport": "^0.6.0",
+    "passport-bnet": "^2.0.0"
+  }
+}

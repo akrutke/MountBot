@@ -1,0 +1,15 @@
+{    
+    "include": ["src"],
+    "exclude": ["node_modules"],
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "CommonJS",
+        "moduleResolution": "Node",
+        "esModuleInterop": true,
+        "resolveJsonModule": true,
+
+        "outDir": "lib/src",
+        "baseUrl": "./src",
+        "lib": ["ES2017", "ESNext.AsyncIterable"]
+    }
+}
